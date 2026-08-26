@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "slots": {
+    "feed_item_list": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Podcast",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": true
+    },
+    "playlist": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Playlist",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": true
+    },
+    "episodes_list": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Episodes",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": true
+    },
+    "favourite_episodes": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Favourites",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": true
+    },
+    "queue": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Queue",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": true
+    },
+    "games": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Games",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    },
+    "cover_puzzle": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Cover+Puzzle",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    },
+    "cover_reveal": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Cover+Reveal",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    },
+    "lyrical_genius": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Lyrical+Genius",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    },
+    "reverse_musicology": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Reverse+Musicology",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    },
+    "wave_jump": {
+      "on": true,
+      "type": "image",
+      "media": "https://dummyimage.com/1200x150/1db954/ffffff.png&text=Mediagg+-+Wave+Jump",
+      "click": "https://mediagg.app",
+      "requiresMbogiContent": false
+    }
+  }
+}
