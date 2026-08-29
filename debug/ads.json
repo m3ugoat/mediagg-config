@@ -3,79 +3,68 @@
   "slots": {
     "feed_item_list": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+feed_item_list",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": true
     },
     "playlist": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+playlist",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": true
     },
     "episodes_list": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+episodes_list",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": true
     },
     "favourite_episodes": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+favourite_episodes",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": true
     },
     "queue": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+queue",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": true
     },
     "games": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+games",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     },
     "cover_puzzle": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+cover_puzzle",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     },
     "cover_reveal": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+cover_reveal",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     },
     "lyrical_genius": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+lyrical_genius",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     },
     "reverse_musicology": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+reverse_musicology",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     },
     "wave_jump": {
       "on": true,
-      "type": "image",
-      "media": "https://dummyimage.com/1200x150/ff8800/000000.png&text=DEBUG+wave_jump",
-      "click": "https://mediagg.app",
+      "type": "admob",
+      "adUnitId": "ca-app-pub-3233263176286045/4942028969",
       "requiresMbogiContent": false
     }
   }
