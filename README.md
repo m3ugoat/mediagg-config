@@ -542,3 +542,14 @@ So validate before you push, not after:
 ```sh
 for f in config.json ads.json debug/config.json debug/ads.json; do python3 -m json.tool "$f" > /dev/null || echo "BAD $f"; done && echo ok
 ```
+
+## Part of the Mediagg ecosystem
+
+This repository is one of several that make up Mediagg. **[mediagg-bible](https://github.com/m3ugoat/mediagg-bible)**
+is the maintenance handbook for all of them: every repository and how they depend on each other,
+how to run and release each one, the checks that keep them at par, and one changelog for the
+whole ecosystem. This repository's page there is
+[`docs/repos/mediagg-config.md`](https://github.com/m3ugoat/mediagg-bible/blob/main/docs/repos/mediagg-config.md).
+
+Every push to `main` and every `v*` tag is reported to the bible by
+`.github/workflows/report-to-bible.yml`. Before a release, run the bible's `scripts/check.sh`.
